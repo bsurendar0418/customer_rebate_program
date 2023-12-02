@@ -1,0 +1,5 @@
+RebateID,CustID,PurchDate,Purch$,SubmitDate,ExpectRebate$,Approved,ApproveDate,Approved$,Comment,
+S7224418,896429,1/31/2023,616.89,3/24/2023,74.03,,,,,
+Z5407587,891087,3/16/2023,103.84,6/3/2023,12.46,No,6/24/2023,0,Rebate request was submitted after 30 days,
+I5262044,597409,6/24/2023,182.25,7/1/2023,21.87,Partial,7/28/2023,13.95,Items returned are not eligible for rebate,
+X6228975,708247,9/2/2023,174.8,9/15/2023,20.98,Yes,10/7/2023,20.98,,
